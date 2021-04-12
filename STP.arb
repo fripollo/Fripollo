@@ -1,0 +1,8 @@
+puts"Choisi un nombre stp c'est pour mon exo"
+Le_Nombre = gets.chomp.to_i
+i = 0
+
+while i < Le_Nombre
+    puts  i += 1
+   
+end
