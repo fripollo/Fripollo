@@ -1,4 +1,4 @@
-puts"Choisi un nombre stp c'est pour mon exo"
+puts"Choisi un nombre stp c'est pour mon eouiixo"
 Le_Nombre = gets.chomp.to_i
 i = 0
 
